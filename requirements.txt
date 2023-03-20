@@ -1,0 +1,13 @@
+git+https://github.com/Rapptz/discord.py
+youtube_dl
+async-timeout==3.0.1
+requests==2.25.1
+aiohttp==3.7.4.post0
+random2==1.0.1
+urllib3==1.21.1
+chardet==3.0.2
+PyNaCl
+aiodns
+Brotli
+cchardet
+dislash.py
